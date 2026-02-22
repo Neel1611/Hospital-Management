@@ -9,13 +9,11 @@
 #### Patient Page
 <img width="1587" height="790" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/365e25f7-5a5b-4cd0-9764-61d677e058a9" />
 
-#### Patient Page
 <img width="1587" height="790" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/63dedc53-eeab-46d0-844d-8cc0403a3330" />
 
 #### Doctor Page
 <img width="1587" height="790" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/0fabcbe5-dc80-4413-878c-2962021eb275" />
 
-#### Doctor Page
 <img width="1587" height="790" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/3b4b6b47-0262-43b4-a2f8-fcb313fc02a4" />
 
 #### Hospital Page
